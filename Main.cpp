@@ -1,3 +1,9 @@
+양지혜 202401169 컴퓨터공학
+
+
+
+
+
 #include <iostream>
 using namespace std;
 
@@ -79,3 +85,6 @@ int main() {
 
     return 0;
 }
+
+
+
